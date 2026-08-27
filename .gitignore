@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+
+# PyInstaller build outputs
+build/
+build-*/
+dist/
+*.spec
+發布版*/
+
+# Generated chat exports and local samples
+line_samples/
+line-style-*/
+test-output*/
+messages/
+media/
+chat.html
+媒體配對報告.txt
+
+# Personal exports
+*.zip
